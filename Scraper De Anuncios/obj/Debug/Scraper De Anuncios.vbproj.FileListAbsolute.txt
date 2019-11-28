@@ -1,0 +1,35 @@
+c:\users\murilo\documents\visual studio 2015\Projects\Scraper De Anuncios\Scraper De Anuncios\bin\Debug\Scraper De Anuncios.exe.config
+c:\users\murilo\documents\visual studio 2015\Projects\Scraper De Anuncios\Scraper De Anuncios\bin\Debug\Scraper De Anuncios.exe
+c:\users\murilo\documents\visual studio 2015\Projects\Scraper De Anuncios\Scraper De Anuncios\bin\Debug\Scraper De Anuncios.pdb
+c:\users\murilo\documents\visual studio 2015\Projects\Scraper De Anuncios\Scraper De Anuncios\bin\Debug\Scraper De Anuncios.xml
+c:\users\murilo\documents\visual studio 2015\Projects\Scraper De Anuncios\Scraper De Anuncios\obj\Debug\Scraper De Anuncios.vbprojResolveAssemblyReference.cache
+c:\users\murilo\documents\visual studio 2015\Projects\Scraper De Anuncios\Scraper De Anuncios\obj\Debug\Scraper_De_Anuncios.Form1.resources
+c:\users\murilo\documents\visual studio 2015\Projects\Scraper De Anuncios\Scraper De Anuncios\obj\Debug\Scraper_De_Anuncios.Resources.resources
+c:\users\murilo\documents\visual studio 2015\Projects\Scraper De Anuncios\Scraper De Anuncios\obj\Debug\Scraper De Anuncios.vbproj.GenerateResource.Cache
+c:\users\murilo\documents\visual studio 2015\Projects\Scraper De Anuncios\Scraper De Anuncios\obj\Debug\Scraper De Anuncios.exe
+c:\users\murilo\documents\visual studio 2015\Projects\Scraper De Anuncios\Scraper De Anuncios\obj\Debug\Scraper De Anuncios.xml
+c:\users\murilo\documents\visual studio 2015\Projects\Scraper De Anuncios\Scraper De Anuncios\obj\Debug\Scraper De Anuncios.pdb
+C:\Users\Murilo\Documents\Visual Studio 2015\Projects\Scraper De Anuncios\Scraper De Anuncios\bin\Debug\Interop.WMPLib.dll
+C:\Users\Murilo\Documents\Visual Studio 2015\Projects\Scraper De Anuncios\Scraper De Anuncios\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Murilo\Documents\Visual Studio 2015\Projects\Scraper De Anuncios\Scraper De Anuncios\obj\Debug\Interop.WMPLib.dll
+C:\Users\Murilo\Documents\Visual Studio 2015\Projects\Scraper De Anuncios\Scraper De Anuncios\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Murilo\Documents\Visual Studio 2015\Projects\Scraper De Anuncios\Scraper De Anuncios\obj\Debug\Scraper De Anuncios.vbproj.ResolveComReference.cache
+C:\Users\muril\OneDrive\Documentos\Visual Studio 2015\Projects\Scraper De Anuncios\Scraper De Anuncios\bin\Debug\Scraper De Anuncios.exe.config
+C:\Users\muril\OneDrive\Documentos\Visual Studio 2015\Projects\Scraper De Anuncios\Scraper De Anuncios\obj\Debug\Interop.WMPLib.dll
+C:\Users\muril\OneDrive\Documentos\Visual Studio 2015\Projects\Scraper De Anuncios\Scraper De Anuncios\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\muril\OneDrive\Documentos\Visual Studio 2015\Projects\Scraper De Anuncios\Scraper De Anuncios\obj\Debug\Scraper De Anuncios.vbproj.ResolveComReference.cache
+C:\Users\muril\OneDrive\Documentos\Visual Studio 2015\Projects\Scraper De Anuncios\Scraper De Anuncios\obj\Debug\Scraper De Anuncios.exe
+C:\Users\muril\OneDrive\Documentos\Visual Studio 2015\Projects\Scraper De Anuncios\Scraper De Anuncios\obj\Debug\Scraper De Anuncios.xml
+C:\Users\muril\OneDrive\Documentos\Visual Studio 2015\Projects\Scraper De Anuncios\Scraper De Anuncios\obj\Debug\Scraper De Anuncios.pdb
+C:\Users\muril\OneDrive\Documentos\Visual Studio 2015\Projects\Scraper De Anuncios\Scraper De Anuncios\bin\Debug\Scraper De Anuncios.exe
+C:\Users\muril\OneDrive\Documentos\Visual Studio 2015\Projects\Scraper De Anuncios\Scraper De Anuncios\bin\Debug\Scraper De Anuncios.pdb
+C:\Users\muril\OneDrive\Documentos\Visual Studio 2015\Projects\Scraper De Anuncios\Scraper De Anuncios\bin\Debug\Scraper De Anuncios.xml
+C:\Users\muril\OneDrive\Documentos\Visual Studio 2015\Projects\Scraper De Anuncios\Scraper De Anuncios\bin\Debug\Interop.WMPLib.dll
+C:\Users\muril\OneDrive\Documentos\Visual Studio 2015\Projects\Scraper De Anuncios\Scraper De Anuncios\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\muril\OneDrive\Documentos\Visual Studio 2015\Projects\Scraper De Anuncios\Scraper De Anuncios\obj\Debug\Scraper De Anuncios.vbprojResolveAssemblyReference.cache
+C:\Users\muril\OneDrive\Documentos\Visual Studio 2015\Projects\Scraper De Anuncios\Scraper De Anuncios\obj\Debug\Scraper_De_Anuncios.Resources.resources
+C:\Users\muril\OneDrive\Documentos\Visual Studio 2015\Projects\Scraper De Anuncios\Scraper De Anuncios\obj\Debug\Scraper De Anuncios.vbproj.GenerateResource.Cache
+C:\Users\muril\OneDrive\Documentos\Visual Studio 2015\Projects\Scraper De Anuncios\Scraper De Anuncios\obj\Debug\Scraper_De_Anuncios.BruteScraper.resources
+C:\Users\muril\OneDrive\Documentos\Visual Studio 2015\Projects\Scraper De Anuncios\Scraper De Anuncios\obj\Debug\Scraper_De_Anuncios.PesquisarPorn.resources
+C:\Users\muril\OneDrive\Documentos\Visual Studio 2015\Projects\Scraper De Anuncios\Scraper De Anuncios\obj\Debug\Scraper_De_Anuncios.ScraperAnuncios.resources
+C:\Users\muril\OneDrive\Documentos\Visual Studio 2015\Projects\Scraper De Anuncios\Scraper De Anuncios\obj\Debug\Scraper_De_Anuncios.FormPrincipal.resources
